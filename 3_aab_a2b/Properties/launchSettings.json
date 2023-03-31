@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2"
+    },
+    "3_aab_a2b": {
+      "commandName": "Project"
+    }
+  }
+}
